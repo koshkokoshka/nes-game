@@ -1,11 +1,12 @@
 # Yume Nikki Fan Game for NES
-Me experimenting with the NES platform and simultaneously trying to create something playable.
+Experimenting with the NES platform and simultaneously trying to create something playable.
 
-Check it out online right in your browser: [https://abandonedterminal.com/nesdev/](https://abandonedterminal.com/nesdev/index.html)
+Check it out online: [https://abandonedterminal.com/nesdev/](https://abandonedterminal.com/nesdev/index.html)
 
 ![Screenshot](https://github.com/smugd/nes-game/raw/master/prototype_1.png "Screenshot")
 
 ## How to build
+[Download CC65 toolchain](https://cc65.github.io/)
 ```
 ca65 boot.s -t nes
 cc65 main.c -t nes -T -O -Oi -Or -Cl
