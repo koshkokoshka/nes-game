@@ -1,7 +1,9 @@
-# Yume Nikki Fan Game for NES
-Experimenting with the NES platform and simultaneously trying to create something playable.
+# Cassandra
+Experimenting with the NES platform and simultaneously trying to create something playable. Big inspiration by Yume Nikki.
 
-Check it out online: [https://abandonedterminal.com/nesdev/](https://abandonedterminal.com/nesdev/index.html)
+This is the story of a girl who, as a member of a destructive cult, brought herself to a state of delirium. You has to find some memorable objects that still connect some part of the girl's consciousness with her past.
+
+Play it online: [https://abandonedterminal.com/nesdev/index.html](https://abandonedterminal.com/nesdev/index.html)
 
 ![Screenshot](https://github.com/smugd/nes-game/raw/master/prototype_1.png "Screenshot")
 
