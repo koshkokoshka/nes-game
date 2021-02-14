@@ -3,7 +3,7 @@ Experimenting with the NES platform and simultaneously trying to create somethin
 
 This is the story of a girl who, as a member of a destructive cult, brought herself to a state of delirium. You has to find some memorable objects that still connect some part of the girl's consciousness with her past.
 
-Play it online: [https://abandonedterminal.com/nesdev/index.html](https://abandonedterminal.com/nesdev/index.html)
+Play it online: [https://oeoe.moe/nesdev/](https://oeoe.moe/nesdev/)
 
 ![Screenshot](https://github.com/smugd/nes-game/raw/master/prototype_1.png "Screenshot")
 
